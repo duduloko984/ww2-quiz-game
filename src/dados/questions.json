@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Em que ano iniciou a segunda guerra?",
+      "alternatives": [
+        "1945",
+        "1939",
+        "1938",
+        "1940"
+      ],
+      "rightAnswer": "1939",
+      "explanation": "Ela se deu inicio quando a Alemanha invade a Polonia"
+    },
+    {
+      "question": "A Segunda Grande Guerra (1939-1945) adquiriu caráter mundial a partir de 7 de dezembro de 1941, quando:",
+      "alternatives": [
+        "os russos tomaram a iniciativa de anexar os Estados Bálticos.",
+        "os alemães invadiram o litoral mediterrâneo da África.",
+        "os japoneses atacaram a base norte-americana de Pearl Harbor",
+        "os franceses, por determinação do marechal Pétain, ocuparam o Sudeste da Ásia"
+      ],
+      "rightAnswer": "os japoneses atacaram a base norte-americana de Pearl Harbor",
+      "explanation": "Após o ataque os Estados Unidos se juntaram aos aliados e mudaram o rumo da guerra"
+    },
+    {
+      "question": "Em relação à Segunda Guerra Mundial é correto afirmar que:",
+      "alternatives": [
+        "Hitler empreendeu uma implacável perseguição aos judeus, que resultou na morte de seis milhões de pessoas.",
+        "os norte-americanos permaneceram neutros na guerra até 1941, quando bombardearam Hiroshima e Nagasaki.",
+        "De Gaulle foi o chefe do governo de Vichy.",
+        " com o ataque alemão a Pearl Harbor, os norte-americanos resolveram entrar na guerra."
+      ],
+      "rightAnswer": "Hitler empreendeu uma implacável perseguição aos judeus, que resultou na morte de seis milhões de pessoas.",
+      "explanation": "Por conta de alguns acontecimentos Hitler desenvolveu um ódio imenso pelos judeus."
+    },
+    {
+      "question": "A II Guerra Mundial foi caracterizada pelo desenvolvimento da indústria bélica. Sobre este assunto é correto afirmar que:",
+      "alternatives": [
+        "A maior invenção deste conflito foi a bomba atômica lançada em cidades japonesas em agosto de 1945.",
+        "Os nazistas conseguiram criar armas como o submarino nuclear e o gás Ziklon-B.",
+        "As mesmas estratégias utilizadas na Primeira Guerra foram repetidas na Segunda, como o uso da cavalaria.",
+        "A aviação de guerra se restringiu à missões de patrulhamento e reconhecimento."
+      ],
+      "rightAnswer": "A maior invenção deste conflito foi a bomba atômica lançada em cidades japonesas em agosto de 1945.",
+      "explanation": "Os estados Unidos criaram em 1942 o projeto Manhatan, que futuramente veio a desenvolver as bombas Fat man e litle boy. "
+    },
+    {
+      "question": "A situação da Alemanha no final da guerra foi alvo de atenção dos países vencedores. Assinale a alternativa correta sobre o tema:",
+      "alternatives": [
+        "A Alemanha não recebeu nenhuma ajuda do Plano Marshall e arrastou-se numa crise econômica até a década de 60, quando foi socorrida pela União Soviética.",
+        "O país foi ocupado por Estados Unidos e URSS, passou por um processo de “desnazificação”, mas teve ajuda econômica para sua reconstrução de ambos os países citados.",
+        "A Alemanha foi dividida em duas entidades territoriais, influenciadas por Estados Unidos e URSS, o que afastou o país de vários acontecimentos da Guerra Fria.",
+        "O país foi condenado pelos desastres da Segunda Guerra, teve que pagar indenizações pesadas aos vencidos e tonou-se um ator menor dentro do mundo europeu."
+      ],
+      "rightAnswer": "O país foi ocupado por Estados Unidos e URSS, passou por um processo de “desnazificação”, mas teve ajuda econômica para sua reconstrução de ambos os países citados.",
+      "explanation": "Decisões erradas resulteram na derrota do país que um dia fora a maior potencia de sua época."
+    },
+    {
+      "question": "Após a guerra, várias nações se reuniram em 24 de outubro de 1945, em Nova York, para celebrar a inauguração Organização das Nações Unidas – ONU. Assinale a alternativa que melhor explica esta instituição:",
+      "alternatives": [
+        "A continuação do trabalho da Liga das Nações, suspenso desde o início do conflito, em 1939.",
+        "Um fórum de discussão a fim de minimizar a distância entre o mundo capitalista e o mundo comunista durante a Guerra Fria.",
+        "Uma aliança política entre os países vencedores com o objetivo de assegurar que o fascismo e seus regimes correlatos não voltariam mais a existir.",
+        "Uma força internacional acima das nações, com o propósito de defender a paz mundial, os direitos do homem e a igualdade dos povos."
+      ],
+      "rightAnswer": "Uma força internacional acima das nações, com o propósito de defender a paz mundial, os direitos do homem e a igualdade dos povos.",
+      "explanation": "A criação da ONU foi um marco para a humanidade"
+    },
+    {
+      "question": "Em que ano terminou a segunda guerra?",
+      "alternatives": [
+        "1945",
+        "1950",
+        "1948",
+        "1946"
+      ],
+      "rightAnswer": "1945",
+      "explanation": "A guerra acabou quando o Japão se rendeu perante a duas bombas atômicas."
+    },
+    {
+      "question": "O maior campo de concentração construído pelos nazistas, ao longo da Segunda Guerra Mundial, foi:",
+      "alternatives": [
+        "Belzec",
+        "Buchenwald",
+        "Auschwitz",
+        "Buchenwald"
+      ],
+      "rightAnswer": "Auschwitz",
+      "explanation": "Esse é o maior símbolo do Holocausto perpetrado pelo nazismo durante a Segunda Guerra Mundial"
+    },
+    {
+      "question": "Duas cidades japonesas que foram bombardeadas pelos Estados Unidos com bombas atômicas em agosto de 1945:",
+      "alternatives": [
+        "Tóquio e Osaka.",
+        "Nagano e Kyoto.",
+        "Hiroshima e Nagasaki.",
+        "Fukushima e Sapporo."
+      ],
+      "rightAnswer": "Hiroshima e Nagasaki.",
+      "explanation": "As bombas explodiram cerca de 8 minutos após o lançamento e a 500 metros do chão "
+    },
+    {
+      "question": "O Diário de Anne Frank é um dos registros mais conhecidos da Segunda Guerra Mundial. Esse registro mostra a rotina de uma jovem judia e de sua família no esconderijo em que eles viviam, em:",
+      "alternatives": [
+        "Berlim",
+        "Amsterdã",
+        "Nuremberg",
+        "Varsóvia"
+      ],
+      "rightAnswer": "Amsterdã",
+      "explanation": "Ela nasceu em Frankfurt, e sua familia se mudou para Amsterdã em 1930"
+    },
+    {
+      "question": "Conflito que acontecia na Ásia antes do início da Segunda Guerra Mundial:",
+      "alternatives": [
+        "Segunda Guerra Sino-Japonesa",
+        "Guerra da Indochina",
+        "Guerra do Vietnã",
+        "Guerra do Ópio"
+      ],
+      "rightAnswer": "Segunda Guerra Sino-Japonesa",
+      "explanation": "Foi um conflito militar travado principalmente entre a República da China e o Império do Japão"
+    },
+    {
+      "question": "A partir do Dia D, os Aliados realizaram o desembarque de tropas em que região?",
+      "alternatives": [
+        "Sicília",
+        "Galícia",
+        "Normandia",
+        "Noruega"
+      ],
+      "rightAnswer": "Normandia",
+      "explanation": "O dia-D foi marcado como uma das maiores mobilizações de tropas da hitória da humanidade"
+    }
+  ]
+}
